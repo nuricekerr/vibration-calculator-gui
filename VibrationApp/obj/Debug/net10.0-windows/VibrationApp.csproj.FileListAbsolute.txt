@@ -1,0 +1,15 @@
+C:\Users\tr\Desktop\Nuri Çeker\Git Projects\vibration-calculator-gui\VibrationApp\bin\Debug\net10.0-windows\VibrationApp.exe
+C:\Users\tr\Desktop\Nuri Çeker\Git Projects\vibration-calculator-gui\VibrationApp\bin\Debug\net10.0-windows\VibrationApp.deps.json
+C:\Users\tr\Desktop\Nuri Çeker\Git Projects\vibration-calculator-gui\VibrationApp\bin\Debug\net10.0-windows\VibrationApp.runtimeconfig.json
+C:\Users\tr\Desktop\Nuri Çeker\Git Projects\vibration-calculator-gui\VibrationApp\bin\Debug\net10.0-windows\VibrationApp.dll
+C:\Users\tr\Desktop\Nuri Çeker\Git Projects\vibration-calculator-gui\VibrationApp\bin\Debug\net10.0-windows\VibrationApp.pdb
+C:\Users\tr\Desktop\Nuri Çeker\Git Projects\vibration-calculator-gui\VibrationApp\obj\Debug\net10.0-windows\VibrationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tr\Desktop\Nuri Çeker\Git Projects\vibration-calculator-gui\VibrationApp\obj\Debug\net10.0-windows\VibrationApp.AssemblyInfoInputs.cache
+C:\Users\tr\Desktop\Nuri Çeker\Git Projects\vibration-calculator-gui\VibrationApp\obj\Debug\net10.0-windows\VibrationApp.AssemblyInfo.cs
+C:\Users\tr\Desktop\Nuri Çeker\Git Projects\vibration-calculator-gui\VibrationApp\obj\Debug\net10.0-windows\VibrationApp.csproj.CoreCompileInputs.cache
+C:\Users\tr\Desktop\Nuri Çeker\Git Projects\vibration-calculator-gui\VibrationApp\obj\Debug\net10.0-windows\VibrationApp.sourcelink.json
+C:\Users\tr\Desktop\Nuri Çeker\Git Projects\vibration-calculator-gui\VibrationApp\obj\Debug\net10.0-windows\VibrationApp.dll
+C:\Users\tr\Desktop\Nuri Çeker\Git Projects\vibration-calculator-gui\VibrationApp\obj\Debug\net10.0-windows\refint\VibrationApp.dll
+C:\Users\tr\Desktop\Nuri Çeker\Git Projects\vibration-calculator-gui\VibrationApp\obj\Debug\net10.0-windows\VibrationApp.pdb
+C:\Users\tr\Desktop\Nuri Çeker\Git Projects\vibration-calculator-gui\VibrationApp\obj\Debug\net10.0-windows\VibrationApp.genruntimeconfig.cache
+C:\Users\tr\Desktop\Nuri Çeker\Git Projects\vibration-calculator-gui\VibrationApp\obj\Debug\net10.0-windows\ref\VibrationApp.dll
